@@ -1,4 +1,7 @@
-This project is a simulation of sphere collide with triangle.
+This project is a Pong game.
 Go to the directory /course, and 'export PYTHONPATH=$PWD';
 Enter /pba, 'make', 'make viewer', 'make stuff';
 Enter /python, excute pba_cube_viewer.py.
+Use A(a) & D(d) to control the bottom bar.
+Use J(j) & L(l) to control the top bar.
+The score is shown on the terminal.

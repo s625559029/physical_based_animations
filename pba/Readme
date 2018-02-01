@@ -1,7 +1,6 @@
-This project is a Pong game.
+This project is physical based animations;
+Switch pba things in swig/PbaThings.i;
+Change 'soft = things.BoidsThing()' to the correct function (can be found in things header files);
 Go to the directory /course, and 'export PYTHONPATH=$PWD';
 Enter /pba, 'make', 'make viewer', 'make stuff';
 Enter /python, excute pba_cube_viewer.py.
-Use A(a) & D(d) to control the bottom bar.
-Use J(j) & L(l) to control the top bar.
-The score is shown on the terminal.
