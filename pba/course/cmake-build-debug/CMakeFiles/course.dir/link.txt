@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/course.dir/pba/base/DynamicalState.C.o CMakeFiles/course.dir/pba/base/LinearAlgebra.C.o CMakeFiles/course.dir/pba/base/Matrix.C.o CMakeFiles/course.dir/pba/base/ObjReader.C.o CMakeFiles/course.dir/pba/base/PbaThing.C.o CMakeFiles/course.dir/pba/base/PbaViewer.C.o  -o course 

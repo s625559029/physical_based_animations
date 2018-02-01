@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ysun3_hw4.dir/course/pba/base/DynamicalState.C.o CMakeFiles/ysun3_hw4.dir/course/pba/base/LinearAlgebra.C.o CMakeFiles/ysun3_hw4.dir/course/pba/base/Matrix.C.o CMakeFiles/ysun3_hw4.dir/course/pba/base/ObjReader.C.o CMakeFiles/ysun3_hw4.dir/course/pba/base/PbaThing.C.o CMakeFiles/ysun3_hw4.dir/course/pba/base/PbaViewer.C.o  -o ysun3_hw4 

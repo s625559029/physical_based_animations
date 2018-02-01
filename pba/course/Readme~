@@ -1,0 +1,4 @@
+This project is a simulation of rigid body teapot.
+Go to the directory contains /pba, and 'export PYTHONPATH=$PWD';
+Enter /pba, 'make', 'make viewer', 'make stuff';
+Enter /python, excute pba_cube_viewer.py.

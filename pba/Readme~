@@ -1,0 +1,4 @@
+This project is a simulation of sphere collide with triangle.
+Go to the directory /course, and 'export PYTHONPATH=$PWD';
+Enter /pba, 'make', 'make viewer', 'make stuff';
+Enter /python, excute pba_cube_viewer.py.
